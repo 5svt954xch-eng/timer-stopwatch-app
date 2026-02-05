@@ -1,5 +1,5 @@
-timer-stopwatch-app
-├── index.html   ← MUST be here
+timer-stopwatch-app/
+├── index.html
 ├── manifest.json
 ├── icon-192.png
 ├── icon-512.png
